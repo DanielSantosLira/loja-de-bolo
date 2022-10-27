@@ -44,9 +44,10 @@
    
 }
 .item-menu{
-    color: white;
+    color: #FFE8D6;
     text-decoration: none;
 }
 .item-menu:hover{
     text-decoration: underline;
+   
 }
