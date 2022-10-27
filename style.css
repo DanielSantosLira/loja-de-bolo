@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+
 .site-inteiro{
     width: 1000px;
     margin: 0 auto;
@@ -50,4 +51,10 @@
 .item-menu:hover{
     text-decoration: underline;
    
+}
+.banner{
+
+}
+.img-banner{
+    width: 100%;
 }
