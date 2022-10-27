@@ -52,9 +52,26 @@
     text-decoration: underline;
    
 }
-.banner{
-   
-}
+
 .img-banner{
     width: 100%;
+    border-bottom: 3px solid #6b705b;
+}
+.titulo-cardapio{
+   margin-top: 50px;
+   font-family: 'Cookie';
+   font-weight: normal;
+   font-size: 45px;
+   color: #CB997E;
+   text-align: center;
+   text-shadow: 2px 2px 10px #6b705b;
+    
+}
+.lista-cardapio{
+    column-count: 4;
+    column-gap: 30px;
+    padding: 60px;
+    font-family: 'Roboto';
+    color: #6b705c;
+    margin-right: 8px;
 }
