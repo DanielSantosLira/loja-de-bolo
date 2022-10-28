@@ -6,7 +6,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 
 .site-inteiro {
     width: 1000px;
@@ -119,4 +121,21 @@
 .mapa{
     padding: 10px;
     text-align: center;
+}
+.rodape{
+    text-align: center;
+    border-top: 5px solid #6b705c;
+    padding: 20px;
+   
+}
+.titulo-rodape{
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 30px;
+    font-family: 'Cookie';
+    color: #6b705b;
+    margin-bottom: 20px;
+}
+.redes-sociais a{
+    text-decoration: none;
 }
